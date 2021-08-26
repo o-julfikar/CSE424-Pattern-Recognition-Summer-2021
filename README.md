@@ -5,4 +5,4 @@ Name: **Mohammed Julfikar Ali Mahbub** \
 Course: **CSE424** 
 
 # Submissions:
-- Individual Presentation: https://www.youtube.com/mohammadzulfikar
+- Individual Presentation: [YouTube](https://youtu.be/WRnuehCXptI)
