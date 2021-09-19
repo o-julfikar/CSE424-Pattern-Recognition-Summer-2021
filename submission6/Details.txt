@@ -1,0 +1,12 @@
+Title: A Hybrid Deep Learning Model For Sentiment Analysis In Bangla From Bangla-English Code-Mixed Data
+Venue:
+Submission Date: 
+
+Members:
++----------+---------------------------------+
+| ID       | Name                            |
++----------+---------------------------------+
+| 21141017 | Md Shahriyar Hossain            |
+| 21341031 | Mohammed Julfikar Ali Mahbub    |
+| 21341049 | G M Sohanur Rahman              |
++----------+---------------------------------+
