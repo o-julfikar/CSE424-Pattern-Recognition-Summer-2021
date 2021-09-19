@@ -1,0 +1,12 @@
+Title: A comparative study on handwritten Bangla character recognition
+Venue:
+Submission Date: 
+
+Members:
++----------+---------------------------------+
+| ID       | Name                            |
++----------+---------------------------------+
+| 21141017 | Md Shahriyar Hossain            |
+| 21341031 | Mohammed Julfikar Ali Mahbub    |
+| 21341049 | G M Sohanur Rahman              |
++----------+---------------------------------+
