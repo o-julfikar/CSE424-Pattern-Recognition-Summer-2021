@@ -1,6 +1,7 @@
 Title: A Hybrid Deep Learning Model For Sentiment Analysis In Bangla From Bangla-English Code-Mixed Data
-Venue:
-Submission Date: 
+Venue: ICAART 2022 - Abstract Submission
+Submission Date: September 20, 2021
+YouTube Presentation Link: 
 
 Members:
 +----------+---------------------------------+
