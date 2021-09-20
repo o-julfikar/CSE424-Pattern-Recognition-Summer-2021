@@ -1,6 +1,7 @@
-Title:
-Venue:
-Submission Date: 
+Title: Recognize Bangla Handwritten Language using Local Binary Pattern
+Venue:AAAI-22 Student Abstract and Poster Program
+Submission Date: September 18, 2021
+YouTube Presentation Link: 
 
 Members:
 +----------+---------------------------------+
