@@ -1,6 +1,7 @@
 Title: A comparative study on handwritten Bangla character recognition
-Venue:
-Submission Date: 
+Venue: ICAART 2022 - Abstract Submission
+Submission Date: September 19, 2021
+YouTube Presentation Link: 
 
 Members:
 +----------+---------------------------------+
